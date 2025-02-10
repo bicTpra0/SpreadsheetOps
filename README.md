@@ -13,6 +13,8 @@ Files completed:
   - spreadsheet/arraySpreadsheet.py
   - spreadsheet/linkedlistSpreadsheet.py
   - spreadsheet/csrSpreadsheet.py
+  - generation/generate_data.py
+  - generation/generate_commands.py
 
 
 to run the test with csr, type (in Linux, use ‘python3’, on Pycharm’s terminal, use ‘python’):
