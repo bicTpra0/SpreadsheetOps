@@ -4,6 +4,7 @@ UNI ASSIGNMENT for Algorithms and Analysis
 Submitted by JP and VN
 
 Spreadsheet commands with various data structures and algorithms with various input data/scenarios.
+Data generation, command generation, and output comparison.
 
 Given files:
   - spreadsheetFilebased.py
