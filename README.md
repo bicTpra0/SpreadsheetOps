@@ -1,6 +1,7 @@
 # SpreadsheetOps
 
 UNI ASSIGNMENT for Algorithms and Analysis
+Submitted by JP and VN
 
 Spreadsheet commands with various data structures and algorithms with various input data/scenarios.
 
